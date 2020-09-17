@@ -5,7 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Data Ninjas 🥷',
+  siteName: 'Gridsome',
   siteDescription: "An open-source framework to generate awesome pages",
   plugins: [
     {

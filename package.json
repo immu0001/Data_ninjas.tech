@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "Data-Ninjas",
+=======
+  "name": "gridsome-starter-liebling",
+>>>>>>> c31e58a4b0bec88ba404e157d8079c169053d213
   "private": true,
   "scripts": {
     "build": "gridsome build",
@@ -11,7 +15,10 @@
     "@gridsome/source-filesystem": "^0.6.2",
     "@gridsome/transformer-remark": "^0.6.0",
     "gridsome": "^0.7.17",
+<<<<<<< HEAD
     "gridsome-plugin-flexsearch": "^1.0.1",
+=======
+>>>>>>> c31e58a4b0bec88ba404e157d8079c169053d213
     "gridsome-plugin-remark-prismjs-all": "^0.3.5",
     "gridsome-source-static-meta": "github:noxify/gridsome-source-static-meta#master",
     "hooper": "^0.3.4",
@@ -27,8 +34,14 @@
     "v-click-outside": "^3.0.1",
     "v-tooltip": "^2.0.3",
     "vue-headroom": "^0.10.1",
+<<<<<<< HEAD
     "vue-infinite-loading": "^2.4.5",
     "vue-slick-carousel": "^1.0.5"
+=======
+    "vue-slick-carousel": "^1.0.5",
+    "gridsome-plugin-flexsearch": "^1.0.1",
+    "vue-infinite-loading": "^2.4.5"
+>>>>>>> c31e58a4b0bec88ba404e157d8079c169053d213
   },
   "devDependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
